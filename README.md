@@ -42,7 +42,6 @@
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1-home.png" width=30%>
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2-filter.png" width=30%>
   <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3-option.png" width=30%>
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4-about.png" width=30%>
 
 </div>
 
