@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Wall You X</string>
+    <string name="wallhaven" translatable="false">Wallhaven</string>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Избранные</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <!-- Image Preview -->
+    <string name="info">Информация</string>
+    <string name="filter">Фильтр</string>
+    <string name="add">Добавить</string>
+    <!-- Info Dialog -->
+    <string name="author">Автор</string>
+    <string name="resolution">Разрешение</string>
+    <string name="category">Категория</string>
+    <string name="fileSize">Размер файла</string>
+    <string name="source">Источник</string>
+    <string name="creationDate">Дата создания</string>
+    <!-- Set wallpaper -->
+    <string name="both">В оба расположения</string>
+    <string name="home">Главный экран</string>
+    <string name="lockscreen">Экран блокировки</string>
+    <!-- Preference categories -->
+    <string name="general">Основные</string>
+    <string name="cache">Кэш</string>
+    <!-- Preferences -->
+    <string name="crop_images">Обрезать изображение</string>
+    <string name="coil_cache">Кэш изображений</string>
+    <string name="wallpaper_changer">Смена обоев</string>
+    <string name="change_interval">Интервал смены обоев</string>
+    <string name="change_target">Установить обои на ...</string>
+    <!-- Theme -->
+    <string name="theme_mode">Тема оформления</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Избранных пока нет</string>
+    <!-- About -->
+    <string name="version">Версия</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="license">Лицензия</string>
+    <string name="website">Веб-сайт</string>
+    <string name="grayscale">Оттенки серого</string>
+    <string name="blur">Размытие</string>
+    <string name="auto_add_to_favorites">Добавить в избранное при применении</string>
+    <string name="reset">Сброс</string>
+    <string name="applying_random">Применять случайные обои</string>
+    <string name="local">Приложение</string>
+    <string name="choose_dir">Выбрать папку</string>
+    <string name="online">Онлайн</string>
+    <string name="wallpaper_changer_source">Источник обоев</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Telegram">Telegram</string>
+</resources>

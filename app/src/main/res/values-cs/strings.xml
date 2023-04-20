@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorites">Oblíbené</string>
+    <string name="settings">Nastavení</string>
+    <string name="about">O aplikaci</string>
+    <string name="info">Informace</string>
+    <string name="filter">Filtr</string>
+    <string name="add">Přidat</string>
+    <string name="author">Autor</string>
+    <string name="resolution">Rozlišení</string>
+    <string name="category">Kategorie</string>
+    <string name="fileSize">Velikost souboru</string>
+    <string name="source">Zdroj</string>
+    <string name="creationDate">Datum vytvoření</string>
+    <string name="both">Oba</string>
+    <string name="home">Domovská obrazovka</string>
+    <string name="lockscreen">Zamykací obrazovka</string>
+    <string name="blur">Rozmazání</string>
+    <string name="grayscale">Stupně šedi</string>
+    <string name="reset">Obnovit</string>
+    <string name="general">Obecné</string>
+    <string name="cache">Mezipaměť</string>
+    <string name="crop_images">Oříznout obrázky</string>
+    <string name="coil_cache">Mezipaměť obrázků</string>
+    <string name="wallpaper_changer">Měnič tapet</string>
+    <string name="change_interval">Interval změn</string>
+    <string name="change_target">Nastavit tapetu na...</string>
+    <string name="theme_mode">Motiv</string>
+    <string name="theme_system">Systémový</string>
+    <string name="theme_light">Světlý</string>
+    <string name="theme_dark">Tmavý</string>
+    <string name="no_favorites">Zatím žádné oblíbené</string>
+    <string name="auto_add_to_favorites">Přidat do oblíbených při použití</string>
+    <string name="version">Verze</string>
+    <string name="license">Licence</string>
+    <string name="website">Web</string>
+    <string name="applying_random">Použití náhodné tapety</string>
+    <string name="wallpaper_changer_source">Zdroj měniče tapet</string>
+    <string name="online">Online</string>
+    <string name="local">Místní</string>
+    <string name="choose_dir">Vybrat adresář</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Telegram">Telegram</string>
+</resources>

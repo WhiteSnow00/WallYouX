@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Wall You X</string>
+    <string name="wallhaven" translatable="false">Wallhaven</string>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="about">Tentang</string>
+    <!-- Image Preview -->
+    <string name="info">Info</string>
+    <string name="filter">Filter</string>
+    <string name="add">Tambah</string>
+    <!-- Info Dialog -->
+    <string name="author">Penulis</string>
+    <string name="resolution">Resolusi</string>
+    <string name="category">Kategori</string>
+    <string name="fileSize">Ukuran berkas</string>
+    <string name="source">Sumber</string>
+    <string name="creationDate">Tanggal pembuatan</string>
+    <!-- Set wallpaper -->
+    <string name="both">Keduanya</string>
+    <string name="home">Tampilan depan</string>
+    <string name="lockscreen">Kunci layar</string>
+    <!-- Preference categories -->
+    <string name="general">Umum</string>
+    <string name="cache">Cache</string>
+    <!-- Preferences -->
+    <string name="crop_images">Pangkas gambar</string>
+    <string name="coil_cache">Cache gambar koil</string>
+    <string name="wallpaper_changer">Pengubah wallpaper</string>
+    <string name="change_interval">Ubah interval</string>
+    <string name="change_target">Setel wallpaper di ...</string>
+    <!-- Theme -->
+    <string name="theme_mode">Tema</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Belum ada favorit</string>
+    <!-- About -->
+    <string name="version">Versi</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="license">Lisensi</string>
+    <string name="website">Website</string>
+    <string name="auto_add_to_favorites">Tambahkan ke favorit jika saat diterapkan</string>
+    <string name="applying_random">Menerapkan wallpaper acak</string>
+    <string name="blur">Buram</string>
+    <string name="reset">Mengatur ulang</string>
+    <string name="local">Lokal</string>
+    <string name="wallpaper_changer_source">Mengubah sumber wallpaper</string>
+    <string name="online">Menggunakan Jaringan</string>
+    <string name="choose_dir">Pilih direktori</string>
+    <string name="grayscale">Abu-Abu</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Telegram">Telegram</string>
+</resources>

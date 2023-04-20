@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Wall You X</string>
+    <string name="wallhaven" translatable="false">Wallhaven</string>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Вибране</string>
+    <string name="settings">Налаштування</string>
+    <string name="about">Про застосунок</string>
+    <!-- Image Preview -->
+    <string name="info">Інформація</string>
+    <string name="filter">Фільтр</string>
+    <string name="add">Додати</string>
+    <!-- Info Dialog -->
+    <string name="author">Автор</string>
+    <string name="resolution">Роздільна здатність</string>
+    <string name="category">Категорія</string>
+    <string name="fileSize">Розмір файлу</string>
+    <string name="source">Джерело</string>
+    <string name="creationDate">Дата створення</string>
+    <!-- Set wallpaper -->
+    <string name="both">Обидва</string>
+    <string name="home">Головний екран</string>
+    <string name="lockscreen">Екран блокування</string>
+    <!-- Preference categories -->
+    <string name="general">Загальне</string>
+    <string name="cache">Кеш</string>
+    <!-- Preferences -->
+    <string name="crop_images">Обрізати зображення</string>
+    <string name="coil_cache">Кеш зображень</string>
+    <string name="wallpaper_changer">Зміна шпалер</string>
+    <string name="change_interval">Інтервал зміни</string>
+    <string name="change_target">Встановити шпалери на ...</string>
+    <!-- Theme -->
+    <string name="theme_mode">Тема</string>
+    <string name="theme_system">Системна</string>
+    <string name="theme_light">Світла</string>
+    <string name="theme_dark">Темна</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Вибраних ще немає</string>
+    <!-- About -->
+    <string name="version">Версія</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="license">Ліцензія</string>
+    <string name="website">Вебсайт</string>
+    <string name="grayscale">Відтінки сірого</string>
+    <string name="blur">Розмиття</string>
+    <string name="auto_add_to_favorites">Додавати до списку вибраного під час застосування</string>
+    <string name="reset">Скидання</string>
+    <string name="applying_random">Застосувати випадкові шпалери</string>
+    <string name="wallpaper_changer_source">Джерело зміни шпалер</string>
+    <string name="online">Онлайн</string>
+    <string name="local">Локально</string>
+    <string name="choose_dir">Виберіть каталог</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Telegram">Telegram</string>
+</resources>
